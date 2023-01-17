@@ -1,0 +1,14 @@
+.app {
+  padding: 100px;
+  padding-bottom: 24px;
+}
+
+.info {
+  padding: 20px 30px;
+  font-size: 24px;
+}
+
+.notFound {
+  margin: 0 auto;
+  padding: 20px;
+}
